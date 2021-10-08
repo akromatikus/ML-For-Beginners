@@ -1,3 +1,5 @@
+--INITIAL READING COMPLETED
+
 # History of machine learning
 
 ![Summary of History of machine learning in a sketchnote](../../sketchnotes/ml-history.png)
