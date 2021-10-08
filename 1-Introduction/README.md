@@ -1,4 +1,4 @@
---COMPLETED
+
 
 # Introduction to machine learning
 
